@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe App - Tony Pham Tran (218159046)</string>
+
+    <string-array name="selectPlayer">
+        <item>Player X</item>
+        <item>Player O</item>
+    </string-array>
+
+</resources>
