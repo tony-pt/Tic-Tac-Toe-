@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TicTacToe App - Tony Pham Tran</string>
+    <string name="app_name">TicTacToe App</string>
 
     <string-array name="selectPlayer">
         <item>Player X</item>
